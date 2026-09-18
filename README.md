@@ -1,6 +1,7 @@
 # restorant-system
 
-Веб-версия терминала персонала **MENSA** — собранный `flutter build web`.
-Здесь только готовая сборка, исходного кода нет.
+Веб-версии **MENSA** — готовые сборки, исходного кода здесь нет:
+терминал персонала (`flutter build web`) и сайт гостей (`vite build`).
 
-Сайт: https://restorant-system.vercel.app/
+Терминал: https://restorant-system.vercel.app/
+Сайт гостей (меню и заказ со стола): https://restorant-system.vercel.app/menu/
